@@ -1,4 +1,4 @@
-## hi, im Enzo mendes
+## Hi, im Enzo mendes
 
 **iniciante Software engineer
 Python & Java**
